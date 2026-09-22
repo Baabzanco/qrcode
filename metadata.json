@@ -1,0 +1,7 @@
+{
+  "name": "QR Toolkit",
+  "description": "A free, privacy-first QR toolkit that processes QR data directly in the browser whenever possible.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
